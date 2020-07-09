@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="730a2667-0fbc-46ca-ad6d-a929fdcfe261" name="Default Changelist" comment="新增模板渲染。" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1dwjSUFkDmEOFOMlSSqUFDkOQwF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/valid_binding" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/valid_binding" />
+      <recent name="$PROJECT_DIR$/param_body" />
+      <recent name="$PROJECT_DIR$/param_get" />
+      <recent name="$PROJECT_DIR$/router_generic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build github.com/Threadalive/gin_test_project/middleware_gin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin_test_project" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/middleware_gin/main.go" />
+      <package value="github.com/Threadalive/gin_test_project/middleware_gin" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/Threadalive/gin_test_project/valid_binding" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin_test_project" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/valid_binding/main.go" />
+      <package value="github.com/Threadalive/gin_test_project/valid_binding" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin_test_project" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/other_template/main.go" />
+      <package value="github.com/Threadalive/gin_test_project" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin_test_project" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/param_struct/main.go" />
+      <package value="github.com/Threadalive/gin_test_project" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin_test_project" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/middleware_whitelist/main.go" />
+      <package value="github.com/Threadalive/gin_test_project" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build github.com/Threadalive/gin_test_project/middleware_gin" />
+        <item itemvalue="Go Build.go build github.com/Threadalive/gin_test_project/valid_binding" />
+        <item itemvalue="Go Build.go build main.go (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="新建gin框架学习项目" />
+    <MESSAGE value="创建了gin请求路由测试" />
+    <MESSAGE value="新建了请求路由以及请求参数获取处理的demo" />
+    <MESSAGE value="新增参数校验" />
+    <MESSAGE value="新增了中间件测试代码" />
+    <MESSAGE value="新增优雅关停代码" />
+    <MESSAGE value="新增模板渲染。" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增模板渲染。" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593358939087">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="348" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1593358939087" />
+    <state width="1238" height="168" key="GridCell.Tab.0.bottom" timestamp="1594119066317">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="168" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594119066317" />
+    <state width="1238" height="168" key="GridCell.Tab.0.center" timestamp="1594119066316">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="168" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1594119066316" />
+    <state width="1238" height="168" key="GridCell.Tab.0.left" timestamp="1594119066314">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="168" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1594119066314" />
+    <state width="1238" height="168" key="GridCell.Tab.0.right" timestamp="1594119066316">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="168" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1594119066316" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1594109946880">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1594109946880" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1594024447817">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1594024447817" />
+  </component>
+</project>
